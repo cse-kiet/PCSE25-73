@@ -1,9 +1,9 @@
 # Title of Project: [CARESS: Transforming Mental Health]
 
 ## Team Members:
-1. [Saransh Kapoor]
-2. [Sudhanshu Pandey]
-3. [Vishwajeet Chaurasia]
+1. Saransh Kapoor
+2. Sudhanshu Pandey
+3. Vishwajeet Chaurasia
 
 ## Functioning and User Flow
 1. Firstly the user sign up and login in the application.<br>
